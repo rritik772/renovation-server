@@ -1,0 +1,139 @@
+[
+    {
+        "question": "Other Questions",
+        "type": "open",
+        "list": [
+            "text"
+        ],
+        "subquestion": [
+            "In which country do you live in?"
+        ],
+        "answer": []
+    },
+    {
+        "question": "How difficult or easy do you think renovation can be in terms of …",
+        "type": "rating",
+        "list": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "subquestion": [
+            "The whole process",
+            "Choosing materials / products"
+        ],
+        "answer": []
+    },
+    {
+        "question": "To what extent (in whole or in part) should the following building parts be renovated / replaced?",
+        "type": "binary",
+        "list": [
+            "Change",
+            "Maintaince"
+        ],
+        "subquestion": [
+            "Kitchen",
+            "Bathroom",
+            "Sewage",
+            "Windows",
+            "Floor",
+            "Facade",
+            "Additional Insulation - Attic",
+            "Additional Insulation - the basement",
+            "Additional Insulation - exterior walls",
+            "Heating System"
+        ],
+        "answer": []
+    },
+    {
+        "question": "Gender",
+        "type": "direct",
+        "list": [
+            "Male",
+            "Female"
+        ],
+        "subquestion": [],
+        "answer": []
+    },
+    {
+        "question": "Type of Heating System",
+        "type": "direct",
+        "list": [
+            "Yes",
+            "No"
+        ],
+        "subquestion": [
+            "Oil boiler"
+        ]
+    },
+    {
+        "question": "You haven't renovated some parts of yours in the last 20 years because ...",
+        "type": "rating",
+        "list": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "subquestion": [
+            "I live in a newly built house",
+            "I am statisfied with the standard of the house",
+            "I am statisfied with the indoor climate"
+        ]
+    },
+    {
+        "question": "How should you finance the renovation?",
+        "type": "direct",
+        "list": [
+            "Yes",
+            "No"
+        ],
+        "subquestion": [
+            "Own saving"
+        ]
+    },
+    {
+        "question": "If we assume that you would like to renovate, how good is it that you would in that case renovate / replace different building parts in your house to...",
+        "type": "rating",
+        "list": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "subquestion": [
+            "It is too old",
+            "It is damaged",
+            "Change the layout / size",
+            "Reduce energy cost"
+        ]
+    },
+    {
+        "question": "How credible are the following sources of information for your decision when considering renovating your house?",
+        "type": "rating",
+        "list": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "subquestion": [
+            "Relatives / friends / neighbors"
+        ]
+    },
+    {
+        "question": "Are you married/partner",
+        "type": "direct",
+        "list": [
+            "Married",
+            "Not Married"
+        ],
+        "subquestion": [],
+        "answer": []
+    }
+]

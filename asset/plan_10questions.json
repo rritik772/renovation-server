@@ -1,0 +1,61 @@
+[
+    {
+        "question": "If we assume that you would like to renovate, how good is it that you would in that case renovate / replace different building parts to in your house to...",
+        "type": "rating",
+        "list": [1, 2, 3, 4, 5],
+        "subquestion": [
+            "It is too old"
+        ],
+        "answer": []
+    },
+    {
+        "question": "How difficult or easy do you think renovation can be in terms of ...",
+        "type": "rating",
+        "list": [1, 2, 3, 4, 5],
+        "subquestion": [
+            "Choosing materials / products"
+        ],
+        "answer": []
+    },
+    {
+        "question": "How credible are the following sources of information for your decision when considering renovating your house?",
+        "type": "rating",
+        "list": [1, 2, 3, 4, 5],
+        "subquestion": [
+            "Relative / Friends / Neighbour"
+        ],
+        "answer": []
+    },
+    {
+        "question": "To what extent (in whole or in part) should the following building parts be renovated / replaced?",
+        "type": "binary",
+        "list": ["Change", "Maintaince"],
+        "subquestion": [
+            "Kitchen",
+            "Bathroom",
+            "Windows",
+            "Floor",
+            "Facade"
+        ],
+        "answer": []
+    },
+    {
+        "question": "Other Questions",
+        "type": "open",
+        "list": [
+            "text"
+        ],
+        "subquestion": [
+            "In which country do you live in?"
+        ],
+        "answer": []
+    },
+    {
+        "question": "You haven't renovated some parts of yours in the last 20 years because ...",
+        "type": "rating",
+        "list": [1, 2, 3, 4, 5],
+        "subquestion": [
+            "I live in a newly built house"
+        ]
+    }
+]
